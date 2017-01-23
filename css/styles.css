@@ -6,6 +6,11 @@ h1 {
 h2 {
   font-size: 20px;
   text-decoration: underline;
+  color: blue;
+}
+
+h4 {
+  color: black;
 }
 
 body {
@@ -19,5 +24,33 @@ body {
 }
 
 .intro {
-  text-align: left;
+  text-align: center;
+}
+
+.education {
+  color: green;
+}
+
+.skills {
+  color: blue;
+
+}
+
+.work {
+color: orange;
+}
+
+ul {
+  color: lime;
+
+}
+
+.important {
+  color: red;
+  font-weight: bold;
+}
+
+.reference {
+  color: purple;
+  font-style: italic;
 }
